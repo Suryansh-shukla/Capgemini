@@ -1,0 +1,14 @@
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\bin\Debug\net10.0\CandyCraze.exe
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\bin\Debug\net10.0\CandyCraze.deps.json
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\bin\Debug\net10.0\CandyCraze.runtimeconfig.json
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\bin\Debug\net10.0\CandyCraze.dll
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\bin\Debug\net10.0\CandyCraze.pdb
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\obj\Debug\net10.0\CandyCraze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\obj\Debug\net10.0\CandyCraze.AssemblyInfoInputs.cache
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\obj\Debug\net10.0\CandyCraze.AssemblyInfo.cs
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\obj\Debug\net10.0\CandyCraze.csproj.CoreCompileInputs.cache
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\obj\Debug\net10.0\CandyCraze.dll
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\obj\Debug\net10.0\refint\CandyCraze.dll
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\obj\Debug\net10.0\CandyCraze.pdb
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\obj\Debug\net10.0\CandyCraze.genruntimeconfig.cache
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CandyCraze\obj\Debug\net10.0\ref\CandyCraze.dll

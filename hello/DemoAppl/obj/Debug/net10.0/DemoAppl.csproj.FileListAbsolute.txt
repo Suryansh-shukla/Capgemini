@@ -1,0 +1,14 @@
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\bin\Debug\net10.0\DemoAppl.exe
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\bin\Debug\net10.0\DemoAppl.deps.json
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\bin\Debug\net10.0\DemoAppl.runtimeconfig.json
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\bin\Debug\net10.0\DemoAppl.dll
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\bin\Debug\net10.0\DemoAppl.pdb
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\obj\Debug\net10.0\DemoAppl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\obj\Debug\net10.0\DemoAppl.AssemblyInfoInputs.cache
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\obj\Debug\net10.0\DemoAppl.AssemblyInfo.cs
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\obj\Debug\net10.0\DemoAppl.csproj.CoreCompileInputs.cache
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\obj\Debug\net10.0\DemoAppl.dll
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\obj\Debug\net10.0\refint\DemoAppl.dll
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\obj\Debug\net10.0\DemoAppl.pdb
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\obj\Debug\net10.0\DemoAppl.genruntimeconfig.cache
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\DemoAppl\obj\Debug\net10.0\ref\DemoAppl.dll

@@ -1,0 +1,16 @@
+F:\Cg30Dec2024\Day3Demo\Day3Demo\bin\Debug\net5.0\Day3Demo.exe
+F:\Cg30Dec2024\Day3Demo\Day3Demo\bin\Debug\net5.0\Day3Demo.deps.json
+F:\Cg30Dec2024\Day3Demo\Day3Demo\bin\Debug\net5.0\Day3Demo.runtimeconfig.json
+F:\Cg30Dec2024\Day3Demo\Day3Demo\bin\Debug\net5.0\Day3Demo.runtimeconfig.dev.json
+F:\Cg30Dec2024\Day3Demo\Day3Demo\bin\Debug\net5.0\Day3Demo.dll
+F:\Cg30Dec2024\Day3Demo\Day3Demo\bin\Debug\net5.0\ref\Day3Demo.dll
+F:\Cg30Dec2024\Day3Demo\Day3Demo\bin\Debug\net5.0\Day3Demo.pdb
+F:\Cg30Dec2024\Day3Demo\Day3Demo\obj\Debug\net5.0\Day3Demo.csproj.AssemblyReference.cache
+F:\Cg30Dec2024\Day3Demo\Day3Demo\obj\Debug\net5.0\Day3Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cg30Dec2024\Day3Demo\Day3Demo\obj\Debug\net5.0\Day3Demo.AssemblyInfoInputs.cache
+F:\Cg30Dec2024\Day3Demo\Day3Demo\obj\Debug\net5.0\Day3Demo.AssemblyInfo.cs
+F:\Cg30Dec2024\Day3Demo\Day3Demo\obj\Debug\net5.0\Day3Demo.csproj.CoreCompileInputs.cache
+F:\Cg30Dec2024\Day3Demo\Day3Demo\obj\Debug\net5.0\Day3Demo.dll
+F:\Cg30Dec2024\Day3Demo\Day3Demo\obj\Debug\net5.0\ref\Day3Demo.dll
+F:\Cg30Dec2024\Day3Demo\Day3Demo\obj\Debug\net5.0\Day3Demo.pdb
+F:\Cg30Dec2024\Day3Demo\Day3Demo\obj\Debug\net5.0\Day3Demo.genruntimeconfig.cache

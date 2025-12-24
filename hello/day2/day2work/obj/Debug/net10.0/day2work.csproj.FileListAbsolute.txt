@@ -1,0 +1,14 @@
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\bin\Debug\net10.0\day2work.exe
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\bin\Debug\net10.0\day2work.deps.json
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\bin\Debug\net10.0\day2work.runtimeconfig.json
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\bin\Debug\net10.0\day2work.dll
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\bin\Debug\net10.0\day2work.pdb
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\obj\Debug\net10.0\day2work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\obj\Debug\net10.0\day2work.AssemblyInfoInputs.cache
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\obj\Debug\net10.0\day2work.AssemblyInfo.cs
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\obj\Debug\net10.0\day2work.csproj.CoreCompileInputs.cache
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\obj\Debug\net10.0\day2work.dll
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\obj\Debug\net10.0\refint\day2work.dll
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\obj\Debug\net10.0\day2work.pdb
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\obj\Debug\net10.0\day2work.genruntimeconfig.cache
+C:\Users\ssury\OneDrive\Desktop\Capegemini\hello\day2\day2work\obj\Debug\net10.0\ref\day2work.dll

@@ -1,0 +1,14 @@
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\bin\Debug\net10.0\CakeShop.exe
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\bin\Debug\net10.0\CakeShop.deps.json
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\bin\Debug\net10.0\CakeShop.runtimeconfig.json
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\bin\Debug\net10.0\CakeShop.dll
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\bin\Debug\net10.0\CakeShop.pdb
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\obj\Debug\net10.0\CakeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\obj\Debug\net10.0\CakeShop.AssemblyInfoInputs.cache
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\obj\Debug\net10.0\CakeShop.AssemblyInfo.cs
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\obj\Debug\net10.0\CakeShop.csproj.CoreCompileInputs.cache
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\obj\Debug\net10.0\CakeShop.dll
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\obj\Debug\net10.0\refint\CakeShop.dll
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\obj\Debug\net10.0\CakeShop.pdb
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\obj\Debug\net10.0\CakeShop.genruntimeconfig.cache
+C:\Users\ayush\OneDrive\Desktop\CapgeminiTrainning\CakeShop\obj\Debug\net10.0\ref\CakeShop.dll

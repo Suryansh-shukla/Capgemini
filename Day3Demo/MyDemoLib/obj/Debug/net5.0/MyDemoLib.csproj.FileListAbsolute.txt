@@ -1,0 +1,11 @@
+F:\Cg30Dec2024\Day3Demo\MyDemoLib\bin\Debug\net5.0\MyDemoLib.deps.json
+F:\Cg30Dec2024\Day3Demo\MyDemoLib\bin\Debug\net5.0\MyDemoLib.dll
+F:\Cg30Dec2024\Day3Demo\MyDemoLib\bin\Debug\net5.0\ref\MyDemoLib.dll
+F:\Cg30Dec2024\Day3Demo\MyDemoLib\bin\Debug\net5.0\MyDemoLib.pdb
+F:\Cg30Dec2024\Day3Demo\MyDemoLib\obj\Debug\net5.0\MyDemoLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cg30Dec2024\Day3Demo\MyDemoLib\obj\Debug\net5.0\MyDemoLib.AssemblyInfoInputs.cache
+F:\Cg30Dec2024\Day3Demo\MyDemoLib\obj\Debug\net5.0\MyDemoLib.AssemblyInfo.cs
+F:\Cg30Dec2024\Day3Demo\MyDemoLib\obj\Debug\net5.0\MyDemoLib.csproj.CoreCompileInputs.cache
+F:\Cg30Dec2024\Day3Demo\MyDemoLib\obj\Debug\net5.0\MyDemoLib.dll
+F:\Cg30Dec2024\Day3Demo\MyDemoLib\obj\Debug\net5.0\ref\MyDemoLib.dll
+F:\Cg30Dec2024\Day3Demo\MyDemoLib\obj\Debug\net5.0\MyDemoLib.pdb
