@@ -1,7 +1,7 @@
 ﻿namespace LPU_BL
 {
-    public class Class1
+    public class LPU_BL
     {
-
+        
     }
 }
