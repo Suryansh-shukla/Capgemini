@@ -39,7 +39,8 @@ namespace LPU_BL
 
         public List<Student> SearchStudentByName(string name)
         {
-            throw new NotImplementedException();
+            List<Student> data = new List<Student>();
+            return data.FindAll(p => p.Name == name);
         }
 
         public bool UpdateStudentDetails(int id, Student newObj)

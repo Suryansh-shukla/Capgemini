@@ -18,7 +18,17 @@ namespace LPU_DAL
                 new Student(){StudentID=2,Name="Aman Kumar",Address="Delhi",Course=CourseType.IT},
                 new Student(){StudentID=3,Name="Rohit Singh",Address="Mumbai",Course=CourseType.Mechanical},
                 new Student(){StudentID=4,Name="Anjali Verma",Address="Bangalore",Course=CourseType.Electrical},
-                new Student(){StudentID=5,Name="Priya Sharma",Address="Chennai",Course=CourseType.Civil}
+                new Student(){StudentID=5,Name="Priya Sharma",Address="Chennai",Course=CourseType.Civil},
+                new Student(){StudentID=6, Name="Rahul Mehta", Address="Ahmedabad", Course=CourseType.CSE},
+                new Student(){StudentID=7, Name="Neha Gupta", Address="Jaipur", Course=CourseType.IT},
+                new Student(){StudentID=8, Name="Vikram Patel", Address="Surat", Course=CourseType.Mechanical},
+                new Student(){StudentID=9, Name="Pooja Nair", Address="Kochi", Course=CourseType.Electrical},
+                new Student(){StudentID=10, Name="Arjun Reddy", Address="Hyderabad", Course=CourseType.Civil},
+                new Student(){StudentID=11, Name="Kunal Joshi", Address="Indore", Course=CourseType.CSE},
+                new Student(){StudentID=12, Name="Sneha Kulkarni", Address="Pune", Course=CourseType.IT},
+                new Student(){StudentID=13, Name="Aakash Mishra", Address="Bhopal", Course=CourseType.Mechanical},
+                new Student(){StudentID=14, Name="Ritu Saxena", Address="Noida", Course=CourseType.Electrical},
+                new Student(){StudentID=15, Name="Manish Yadav", Address="Gurgaon", Course=CourseType.Civil}
             };
         }
 
