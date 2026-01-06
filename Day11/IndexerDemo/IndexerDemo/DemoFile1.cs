@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace IndexerDemo
+﻿partial class MyLogic
 {
-    internal class DemoFile1
+    public void ShowCustomerDetails()
     {
+        // Implementation goes here
     }
 }

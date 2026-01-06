@@ -14,6 +14,9 @@ namespace IndexerDemo
             Employee emp3=new Employee() { EmpID=103,EmpName="Buddy",BSalary=60000};
             Employee empObj = emp1 + emp2 + emp3;
             System.Console.WriteLine($"Total Salary is: {empObj.BSalary}");
+            MyLogic logic = new MyLogic();
+            logic.ShowEmployeeDetails();
+            logic.ShowCustomerDetails();
         }
     }
 }
