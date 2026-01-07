@@ -66,19 +66,22 @@
             button1.TabIndex = 2;
             button1.Text = "Add";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // textBox1
             // 
             textBox1.Location = new Point(395, 152);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(150, 31);
+            textBox1.PlaceholderText = "Enter First Number";
+            textBox1.Size = new Size(176, 31);
             textBox1.TabIndex = 3;
             // 
             // textBox2
             // 
             textBox2.Location = new Point(395, 207);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(150, 31);
+            textBox2.PlaceholderText = "Enter Second Number";
+            textBox2.Size = new Size(176, 31);
             textBox2.TabIndex = 4;
             // 
             // Form1
