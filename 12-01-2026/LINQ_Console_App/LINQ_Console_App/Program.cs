@@ -84,20 +84,20 @@ namespace LINQ_Console_App
                 Console.WriteLine($"{item.CustomerId}\t{item.CustomerName}\t{item.City}");
             }
         }
-        //public static void LambdaLookUp()
-        //{
-        //    int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-        //    var query = numbers.ToLookup(i % 2 == 0);
-        //    foreach (IGrouping<int, int> group in query)
-        //    {
-        //        Console.WriteLine("Key :{0}", group.Key);
-        //        foreach (int number in group)
-        //        {
-        //            Console.WriteLine(number);
-        //        }
-        //    }
+        public static void LambdaLookUp()
+        {
+            int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            var query = numbers.ToLookup(i % 2 == 0);
+            foreach (IGrouping<int, int> group in query)
+            {
+                Console.WriteLine("Key :{0}", group.Key);
+                foreach (int number in group)
+                {
+                    Console.WriteLine(number);
+                }
+            }
 
-        //}
+        }
         public static void LambdaLookUp()
         {
             StudentRepo sRepo=new StudentRepo();
