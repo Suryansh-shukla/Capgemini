@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1230E7AB-693C-4F4F-AB79-C4F2A2C4DD89}</ProjectGuid>
+    <ProjectGuid>{3AA19FBF-8406-4F25-91C0-C07C0D1D6AFC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BillGeneration</RootNamespace>
-    <AssemblyName>BillGeneration</AssemblyName>
+    <RootNamespace>MultiThreadingDemo</RootNamespace>
+    <AssemblyName>MultiThreadingDemo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Commodity.cs" />
-    <Compile Include="EnumDefinition.cs" />
-    <Compile Include="PrepareBill.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
