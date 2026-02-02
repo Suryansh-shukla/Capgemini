@@ -29,6 +29,9 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.lblCpuText = new System.Windows.Forms.Label();
             this.lblCpuValue = new System.Windows.Forms.Label();
             this.lblCpuStatus = new System.Windows.Forms.Label();
@@ -45,6 +48,8 @@
             this.btnStop = new System.Windows.Forms.Button();
             this.timerHealth = new System.Windows.Forms.Timer(this.components);
             this.lblLastUpdated = new System.Windows.Forms.Label();
+            this.chartHealth = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            ((System.ComponentModel.ISupportInitialize)(this.chartHealth)).BeginInit();
             this.SuspendLayout();
             // 
             // lblCpuText
@@ -183,11 +188,28 @@
             this.lblLastUpdated.TabIndex = 14;
             this.lblLastUpdated.Text = "Last Updated: -.-";
             // 
+            // chartHealth
+            // 
+            chartArea1.Name = "ChartArea1";
+            this.chartHealth.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.chartHealth.Legends.Add(legend1);
+            this.chartHealth.Location = new System.Drawing.Point(484, 97);
+            this.chartHealth.Name = "chartHealth";
+            series1.ChartArea = "ChartArea1";
+            series1.Legend = "Legend1";
+            series1.Name = "Series1";
+            this.chartHealth.Series.Add(series1);
+            this.chartHealth.Size = new System.Drawing.Size(289, 248);
+            this.chartHealth.TabIndex = 15;
+            this.chartHealth.Text = "chart1";
+            // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.chartHealth);
             this.Controls.Add(this.lblLastUpdated);
             this.Controls.Add(this.btnStop);
             this.Controls.Add(this.btnStart);
@@ -205,6 +227,7 @@
             this.Controls.Add(this.lblCpuText);
             this.Name = "FormMain";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.chartHealth)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -228,6 +251,7 @@
         private System.Windows.Forms.Button btnStop;
         private System.Windows.Forms.Timer timerHealth;
         private System.Windows.Forms.Label lblLastUpdated;
+        private System.Windows.Forms.DataVisualization.Charting.Chart chartHealth;
     }
 }
 

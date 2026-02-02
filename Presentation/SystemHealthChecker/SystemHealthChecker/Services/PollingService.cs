@@ -23,13 +23,20 @@ namespace SystemHealthChecker.Services
 
         public SystemHealthSnapshot CollectSnapshot()
         {
-            return new SystemHealthSnapshot
+            try
             {
-                CpuUsage = cpu.GetCpuUsage(),
-                MemoryUsage = memory.GetMemoryUsage(),
-                DiskUsage = disk.GetDiskUsage(),
-                Timestamp = DateTime.Now
-            };
+                return new SystemHealthSnapshot
+                {
+                    CpuUsage = cpu.GetCpuUsage(),
+                    MemoryUsage = memory.GetMemoryUsage(),
+                    DiskUsage = disk.GetDiskUsage(),
+                    Timestamp = DateTime.Now
+                };
+            }
+            catch (Exception ex)
+            {
+                throw new ApplicationException("Error collecting system metrics", ex);
+            }
         }
     }
 }
