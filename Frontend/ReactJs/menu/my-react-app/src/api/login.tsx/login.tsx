@@ -4,7 +4,7 @@ function App() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("https://localhost:7062/api/Users")
+    fetch("https://localhost:7062/api/users")
       .then((response) => response.json())
       .then((result) => {
         console.log(result);

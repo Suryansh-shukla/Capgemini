@@ -61,6 +61,15 @@
 
 import React from "react";
 import "./index.css";
+import {Login} from "./components/Login.jsx";
+
+const Login = () => {
+  return (
+    <div className="login-container">
+      <Login />
+    </div>
+  );
+};
 
 // Header
 const Header = () => <div className="header">Header</div>;
@@ -91,24 +100,7 @@ const Footer = () => <div className="footer">Footer</div>;
 
 export default function App() {
   return (
-    <div className="layout">
-      <Header />
-      <Navigation />
-
-      <div className="middle">
-        <Sidebar />
-        <MainContent />
-        <Ads />
-        <Widgets />
-      </div>
-
-      <div className="bottom">
-        <Future />
-        <Notifications />
-      </div>
-
-      <Footer />
-    </div>
+    <div className="Login"></div>
   );
 }
 
